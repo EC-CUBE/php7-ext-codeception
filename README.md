@@ -12,6 +12,7 @@ Docker image for Codeception with additional to PHP extensions
 - pdo_mysql
 - soap
 - mcrypt
+- intl
 
 ## Base image
 
